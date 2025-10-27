@@ -1,6 +1,6 @@
 # Handbook on Protocols and Management of NICU-Generated Data
 
-Contributions welcome. See [editing instructions](./editing_instructions.md) on how to add to markdown files.
+Contributions welcome. See [guide](./editing_instructions.md) on how to edit markdown files.
 
 ## Book 1: Guidelines for data acquistion
 [Book 1](./hand1.md)
